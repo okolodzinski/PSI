@@ -1,17 +1,17 @@
 
 
-Aby wykonaæ projekt nale¿y
+Aby uruchomiÄ‡ projekt naleÅ¼y
 
--Zainstalowaæ oprogramowanie Vagrant 
--Zainstalowaæ oprogramowanie VirtualBox 
--Utworzyæ katalog na dysku (nazwa dowolna)
--Za pomoc¹ PowerShell nale¿y przejœæ do utworzonego katalogu
--Za pomoc¹ polecenia "vagrant init" tworzymy plik vagrantfile w katalogu
+-ZainstalowaÄ‡ oprogramowanie Vagrant 
+-ZainstalowaÄ‡ oprogramowanie VirtualBox 
+-UtworzyÄ‡ katalog na dysku (nazwa dowolna)
+-Za pomocÄ… PowerShell naleÅ¼y przejÅ›Ä‡ do utworzonego katalogu
+-Za pomocÄ… polecenia "vagrant init" tworzymy plik vagrantfile w katalogu
 -Modyfikujemy plik Vagrantfile zgodnie z wytycznymi projektu
--Za pomoc¹ polecenia "vagrant up" urychamiamy polecenia zawarte w pliku vagrantfile
-----Vagrant wykonuj¹c polecenia tworzy 2 maszyny virtualne, w oprogramowaniu virtualbox,
-z których pierwsza zawiera bazê danych (nale¿y wskazaæ adres serwera 192.168.10.10) a druga serwis web. 
--Po zakoñczeniu procesu instalacji w przegl¹darce przejœæ na adres 192.168.10.11
+-Za pomocÄ… polecenia "vagrant up" urychamiamy polecenia zawarte w pliku vagrantfile
+----Vagrant wykonujÄ…c polecenia tworzy 2 maszyny virtualne, w oprogramowaniu virtualbox,
+z ktÃ³rych pierwsza zawiera bazÄ™ danych (naleÅ¼y wskazaÄ‡ adres serwera 192.168.10.10) a druga serwis web. 
+-Po zakoÅ„czeniu procesu instalacji w przeglÄ…darce przejÅ›Ä‡ na adres 192.168.10.11
 -Pliki konfiguracyjne wrzucic na repozytorium Github 
 
 Przydatne linki:
